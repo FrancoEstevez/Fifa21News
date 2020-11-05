@@ -1,15 +1,24 @@
-#a {
-    color: blueviolet;
-}
 body {
-    background-color: black;
+    background-color:#201e20;
 }
 p {
     color: floralwhite;
 }
-h1{
+h1 {
     color: white;
 }
 h2 {
     color: white;
+}
+.purpleLink {
+    color:#6e42c6;
+    text-decoration: none;
+}
+.mainSection {
+   margin-top: 93px; 
+   padding-left: 186px;
+   padding-right: 186px;
+}
+.dormunImg {
+   height: 500px;
 }
