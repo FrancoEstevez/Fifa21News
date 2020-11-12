@@ -19,6 +19,13 @@ h2 {
    padding-left: 186px;
    padding-right: 186px;
 }
-.dormunImg {
+.TodasLasImg {
    height: 500px;
+}
+.arribaImg {
+    height: 100px;
+}
+.VIDEO {
+    height: 500px;
+    width: 100%;
 }
